@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, 3.js**
 
-- 💬 Ask me about **java, html, css, cloud computing**
+- 💬 Ask me about **Full Stack, Cloud Security, AIML, Cloud Integration, Cloud Architecture**
 
 - 📫 How to reach me **prnvvarshney@gmail.com**
 
