@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on https://www.designsbypranav.site/<br>👯 I’m looking to collaborate on https://pacman-bay.vercel.app/<br>🌱 I’m currently learning React & 3.js<br>💬 Ask me about Full Stack, Cloud Security, AIML, Cloud Integration, Cloud Architecture<br>
 
