@@ -9,7 +9,7 @@
  ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝   ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=600&lines=%24+whoami;pranav+%E2%80%94+software+engineer%2C+capgemini;%24+cat+current_focus.txt;backend+systems+for+nbcuniversal+%2F+comcast;%24+echo+%24INTERESTS;cloud+infra+%2B+ai+security+%2B+ui%2Fux" alt="terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=600&lines=%24+whoami;pranav+%E2%80%94+backend+%2B+cloud+engineer;%24+cat+interests.txt;cloud+infra+%2B+ai+security+%2B+ui%2Fux;%24+echo+%24STATUS;always+building+something" alt="terminal typing" />
 
 </div>
 
@@ -19,13 +19,13 @@
 pranav@github ~ % neofetch
 
      .---.        OS: Human (Bengaluru, India)
-    /     \       Role: Software Engineer @ Capgemini
-    \.@-@./       Client: NBCUniversal / Comcast
-    /`\_/`\       Uptime: 1.5 yrs professional, still compiling
-   //  _  \\      Shell: .NET Core / Angular / Azure
-  | \     )|_     Packages: 17 public repos
- /`\_`>  <_/ \    Certs: Azure Developer Associate, GenAI Specialist
- \__/'---'\__/    Side quest: designsbypranav.site
+    /     \       Role: Backend & Cloud Engineer
+    \.@-@./       Shell: .NET Core / Angular / Azure / AWS
+    /`\_/`\       Packages: 17 public repos
+   //  _  \\      Certs: Azure Developer Associate, GenAI Specialist
+  | \     )|_     Side quest: designsbypranav.site
+ /`\_`>  <_/ \
+ \__/'---'\__/
 
 pranav@github ~ %
 ```
@@ -34,10 +34,9 @@ pranav@github ~ %
 
 ### `$ cat about.md`
 
-I build backend systems by day — production CI/CD and APIs for a platform serving **10M+ concurrent users** — and break my own systems by night, mostly for fun. Somewhere in between I picked up an unreasonable interest in typography and layout, so half my repos are code and the other half are pixels.
+I build backend systems and cloud infrastructure, and break my own systems on the side, mostly for fun. Somewhere in between I picked up an unreasonable interest in typography and layout, so half my repos are code and the other half are pixels.
 
 ```diff
-+ currently: shipping backend features for NBCUniversal / Comcast @ Capgemini
 + building: REdV01, an autonomous AI pentesting agent
 + tinkering: a private cloud on Proxmox VE (yes, at home, yes, on purpose)
 + always down for: a conversation about cloud architecture or clean UI
@@ -70,16 +69,19 @@ drwxr-xr-x  PACMAN                   pacman, rebuilt from scratch in vanilla JS
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
