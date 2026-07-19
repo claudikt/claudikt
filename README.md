@@ -91,8 +91,7 @@ drwxr-xr-x  PACMAN                   pacman, rebuilt from scratch in vanilla JS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=claudikt&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudikt&theme=github_dark&hide_border=true&layout=compact" height="165"/>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=claudikt&theme=github-dark&hide_border=true" width="95%"/>
 
